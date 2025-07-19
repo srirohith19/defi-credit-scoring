@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧮 Aave V2 Wallet Credit Scoring System
 
 This project analyzes user transaction data from the Aave V2 DeFi protocol and assigns each wallet a *credit score between 0 and 1000*, based on responsible or risky behavior. It is a rule-based scoring system that does not use machine learning, but rather mimics financial risk modeling logic using transaction patterns.
@@ -93,3 +94,7 @@ The algorithm uses business logic + minmax normalization.
 - Transparent, interpretable results
 - Scalable to 100K+ transactions
 
+=======
+# defi-credit-scoring
+A DeFi wallet credit scoring system using rule-based modeling
+>>>>>>> bf57a7da7f2f3303b10e3bf686072898a74d5ffb
